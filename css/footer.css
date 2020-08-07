@@ -1,4 +1,6 @@
 .__footer {
+    position: relative;
+    width: 100%;
     background-color: white;
     padding-top: 30px;
     padding-bottom: 30px;
