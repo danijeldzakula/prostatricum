@@ -1,0 +1,6 @@
+.component-img {
+	display: block;
+	width: 100%;
+	max-width: 128px;
+	border-radius: 50%;
+}
