@@ -12764,9 +12764,10 @@ body {
 .opacityLight {
 	opacity: 0.8;
 	border-radius: 5px;
+    width: 100%;
+    display: block;
 	max-width: 540px;
-	margin-top: 15px;
-	margin-bottom: 15px;
+	margin: 15px auto;
 }
 html {
     scroll-behavior: smooth;
@@ -13610,4 +13611,9 @@ nav.nav-up {
 }
 .product-img2 {
     max-width: 200px;
+}
+
+
+.overflow-x {
+    overflow-x: hidden;
 }
